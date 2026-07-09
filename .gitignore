@@ -9,6 +9,8 @@ __pycache__/
 .pytest_cache/
 .mypy_cache/
 .ruff_cache/
+.python-version
+uv.lock
 
 # Virtual envs
 .venv/
